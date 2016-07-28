@@ -1,0 +1,109 @@
+*{
+	font-family: Arial;
+}
+#logo{
+	height: 40px;
+	width: 270px;
+}
+
+.img{
+	height: 180px;
+	width: 150px;
+}
+.fondo{
+	background-color: orange;
+	padding: 20px 40px;
+}
+
+.icono{
+	height: 100px;
+	width: 100px;
+	margin-top: 330px;
+	margin-left: 430px;
+}
+.lateral{
+	margin-bottom: 200px;
+	padding: 50px;
+
+}
+h1{
+	color: white;
+}
+.back{
+	background-image: url("../img/banner.jpg");
+}
+
+.verde{
+	border:1px solid #00FF00;
+	color: #00FF00;
+	font-size: 11px;
+	padding: 9px;
+	border-radius: 10%;
+}
+
+hr{
+	margin-bottom: 10px;
+}
+.bla{
+	color:white;
+	font-size: 11px;
+	margin:10px;
+}
+
+.non{
+	text-decoration: none;
+	color: white;
+}
+
+.caja{
+	background-color:#E9AD19; 
+	padding: 10px;
+	margin: 10px;
+	border-radius: 5%;
+	height: 40px;
+	width: 200px;
+}
+
+.caja2{
+	background-color: #B16B16;
+}
+
+.fotos{
+	height: 200px;
+	width: 200px;
+}
+
+.fondo2{
+	background-color: #EAEAEA ;
+}
+.foot{
+	font-size: 10px;
+	margin-left: 60px;
+}
+
+.video{
+	width:1140px; 
+	height:315px;
+}
+
+.ref{
+	text-decoration: none;
+	color: orange;
+}
+
+.boto{
+	height: 70px;
+	width:200px;
+}
+ .oran {
+ 	color: #F3AB25;
+ }
+
+ .caja3{
+ 	background-color:#B16B16; 
+	padding: 25px;
+	margin: 40px;
+	border-radius: 5%;
+	height: 70px;
+	width: 180px;
+ }
